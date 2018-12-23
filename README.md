@@ -16,3 +16,4 @@ Filter Design Mode:
 The application takes user specified filter specifications as an input (Filter order, Passband Frequency & Stopband Frequency) 
 and approximates the filter using least squares method and calculates the least squares error. It plots the frequency response 
 of the filter on a linear or a logarithmic scale. It also provides different plotting options (Magnitude, Phase, Real and Imaginary). 
+Note: Step by step guide to use the application is provided in the report.
